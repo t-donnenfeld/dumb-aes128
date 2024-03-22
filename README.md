@@ -1,2 +1,2 @@
-# dumb-aes256
-Naive implementation of AES256 cypher
+# dumb-aes128
+Naive implementation of AES128 cypher
